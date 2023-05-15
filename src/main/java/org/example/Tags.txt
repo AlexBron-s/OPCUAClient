@@ -1,0 +1,20 @@
+TagObject{nodeId=Tag1, value=1022}
+TagObject{nodeId=Tag2, value=1010707409}
+TagObject{nodeId=Tag3, value=6498166992752460652}
+TagObject{nodeId=Tag4, value=55679}
+TagObject{nodeId=Tag5, value=1045895262}
+TagObject{nodeId=Tag6, value=9733864360280315721}
+TagObject{nodeId=Tag7, value=-3.870706114947282E-19}
+TagObject{nodeId=Tag8, value=www.integrationobjects.com}
+TagObject{nodeId=Tag9, value=32}
+TagObject{nodeId=Tag10, value=true}
+TagObject{nodeId=Tag11, value=15}
+TagObject{nodeId=Tag12, value=15}
+TagObject{nodeId=Tag13, value=24}
+TagObject{nodeId=Tag14, value=26071}
+TagObject{nodeId=Tag15, value=486974541}
+TagObject{nodeId=Tag16, value=2870138184854091718}
+TagObject{nodeId=Tag17, value=-40.39057159423828}
+TagObject{nodeId=Tag18, value=Industrial Telecommunications}
+TagObject{nodeId=Tag19, value=14}
+TagObject{nodeId=Tag20, value=true}
